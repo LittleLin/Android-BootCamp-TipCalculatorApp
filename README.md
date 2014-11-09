@@ -1,7 +1,7 @@
 TipCalculatorApp
 ================
 
-This is an Tip Calculator Android application for Android BootCamp Course.
+This is a Tip Calculator Android application for Android BootCamp Course.
 
 Time spent: 6 hours spent in total
 
